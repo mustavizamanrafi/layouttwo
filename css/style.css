@@ -3,78 +3,234 @@
 }
 
 header{
-    overflow: hidden;
    
+    
+    overflow: hidden;
 }
 
 .logo_div{
-    width: 30%;
-    background-color: yellow;
-    height: 80px;
+    width: 20%;
+    background-color: brown;
     float: left;
-    text-align: center;
-    color: black;
-}
+    height: 50px;
 
-.header_div{
-    width: 40%;
-    background-color: rgb(252, 0, 0);
-    height: 80px;
-    float: left;
-    text-align: center;
-    color: rgb(0, 0, 0);
 
 }
-
 .menu_div{
-    width: 30%;
-    background-color: rgb(3, 3, 3);
-    height: 80px;
-    float: left;
-    text-align: center;
-    color: white;
-
+    width: 40%;
+    background-color: rgb(255, 0, 149);
+    float: right;
+    height: 50px;
 }
+
+
+
+
 section{
+    
+    
     overflow: hidden;
     
+
+}
+.b_1{
+    width: 16.66%;
+    background-color: rgb(44, 184, 1);
+    float: left;
+    height: 150px;
+
 }
 
+.b_2{
+    width: 16.66%;
+    background-color: rgb(119, 41, 41);
+    float: left;
+    height: 150px;
+
+
+}
+
+.b_3{
+    width: 16.66%;
+    background-color: rgb(20, 13, 13);
+    float: left;
+    height: 150px;
+
+
+}
+.b_4{
+    width: 25%;
+    background-color: rgb(79, 1, 124);
+    float: left;
+    height: 150px;
+
+}
+.b_5{
+    width: 25%;
+    background-color: rgb(161, 163, 17);
+    float: left;
+    height: 150px;
+    
+
+
+}
+
+section{
+    
+  
+    
+    
+}
 .d_1{
-    width: 30%;
-    background-color: rgb(255, 38, 0);
-    height: 500px;
+    width: 25%;
+    background-color: aqua;
     float: left;
-
+    height: 200px;
 }
-
 .d_2{
-    width: 40%;
-    background-color: rgb(0, 238, 255);
-    height: 500px;
+    width: 25%;
+    background-color: rgb(69, 69, 85);
     float: left;
-
+    height: 200px;
 }
-
-
 .d_3{
-    width: 30%;
-    background-color: rgb(23, 7, 255);
-    height: 500px;
+    width: 16.66%;
+    background-color: rgb(2, 105, 2);
+    float: left;
+    height: 200px;
+}
+
+.d_4{
+    width: 16.66%;
+    background-color: rgb(117, 146, 10);
+    float: left;
+    height: 200px;
+}
+
+.d_5{
+    width: 16.66%;
+    background-color: rgb(218, 203, 1);
+    float: left;
+    height: 200px;
+
+}
+
+section{
+    overflow: hidden;
+
+}
+   
+   
+  .V_1{
+    width: 50%;
+    height: 400px;
+    background-color: blue;
+    float: left;
+  }  
+  .semi_1{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(229, 255, 0);
+    float: left;
+
+  }
+
+  .semi_2{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(5, 5, 5);
+    float: right;
+
+  }
+
+
+
+
+.v_2{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(7, 7, 7);
+    float: left;
+    overflow: hidden;
+}
+
+.semi_3{
+    width: 12.5%;
+    height: 200px;
+    background-color: rgb(66, 42, 42);
     float: left;
 
 }
-.f_1{
-    width: 30%;
-    background-color: rgb(238, 255, 0);
-    height: 50px;
-    float: left;
 
-}
-.f_2{
-    width: 30%;
-    background-color: rgb(0, 0, 0);
-    height: 50px;
+
+.semi_4{
+
+    width: 12.5%;
+    height: 200px;
+    background-color: rgb(216, 115, 0);
     float: right;
 
 }
+
+.semi_5{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(43, 255, 0);
+   
+
+}
+
+.semi_6{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(0, 153, 255);
+   
+
+}
+
+.v_3{
+
+    width: 25%;
+    height: 400px;
+    background-color: rgb(255, 0, 0);
+    float: left;
+
+}
+
+section{
+   
+}
+.fo_1{
+    width: 20%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+
+}
+
+.cap_1{
+    width: 40%;
+    height: 50px;
+    background-color: rgb(0, 248, 33);
+    float: left;
+
+
+}
+
+.fo_2{
+    width: 40%;
+    height: 50px;
+    background-color: rgb(255, 251, 0);
+    float: left;
+
+}
+
+
+
+
+
+
+
+
+
+
